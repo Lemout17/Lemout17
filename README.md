@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning React.js
-- 📫 How to reach me: djutsu17@gmail.com
+- 📫 How to reach me: djutsu17@gmail.com <br />
 ![](https://komarev.com/ghpvc/?username=Lemout17&color=red)
 
 <!--
