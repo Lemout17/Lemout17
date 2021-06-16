@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me: djutsu17@gmail.com <br />
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemout17&show_icons=true&theme=dracula)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemout17&show_icons=true&theme=highcontrast)
 - ![](https://komarev.com/ghpvc/?username=Lemout17&color=red)
 
 <!--
