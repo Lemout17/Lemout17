@@ -5,16 +5,6 @@
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemout17&show_icons=true&theme=radical)
 - ![](https://komarev.com/ghpvc/?username=Lemout17&color=red)
 
-<!--
-**Lemout17/Lemout17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning React.js
-- 📫 How to reach me: djutsu17@gmail.com
-![](https://komarev.com/ghpvc/?username=Lemout17&color=red)
--->
 <h3 align="left">How to reach me:</h3>
 
 <p><a href="https://www.linkedin.com/in/vladyslav-safin/" rel="noopener noreferrer" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:djutsu17@gmail.com" rel="noopener noreferrer" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
