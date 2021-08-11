@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- - 🌱 I’m currently learning React.js
+ - 🌱 I’m currently learning Node.js
 - 📫 My email : djutsu17@gmail.com <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lemout17&show_icons=true&theme=radical)
